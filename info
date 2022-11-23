@@ -1,0 +1,78 @@
+System:
+  Kernel: 5.17.5-300.fc36.x86_64 arch: x86_64 bits: 64
+    compiler: gcc v: 2.37-24.fc36 Desktop: GNOME v: 42.0
+    Distro: Fedora release 36 (Thirty Six)
+Machine:
+  Type: Desktop System: Hewlett-Packard
+    product: HP Compaq Pro 6300 MT v: N/A
+    serial: <superuser required>
+  Mobo: Hewlett-Packard model: 1497
+    serial: <superuser required> UEFI: Hewlett-Packard
+    v: J01 v02.15 date: 11/10/2011
+CPU:
+  Info: dual core model: Intel Pentium G620 bits: 64
+    type: MCP arch: Sandy Bridge rev: 7 cache:
+    L1: 128 KiB L2: 512 KiB L3: 3 MiB
+  Speed (MHz): avg: 1597 min/max: 1600/2600 cores:
+    1: 1597 2: 1597 bogomips: 10379
+  Flags: ht lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3
+Graphics:
+  Device-1: Intel 2nd Generation Core Processor Family
+    Integrated Graphics
+    vendor: Hewlett-Packard driver: i915 v: kernel
+    arch: Gen6 bus-ID: 00:02.0
+  Display: wayland server: X.Org v: 1.22.1.1
+    with: Xwayland v: 22.1.1 compositor: gnome-shell
+    driver: gpu: i915 resolution: 1360x768~60Hz
+  OpenGL:
+    renderer: Mesa Intel HD Graphics 2000 (SNB GT1)
+    v: 3.3 Mesa 22.0.1 direct render: Yes
+Audio:
+  Device-1: Intel 6 Series/C200 Series Family High
+    Definition Audio
+    vendor: Hewlett-Packard driver: snd_hda_intel
+    v: kernel bus-ID: 00:1b.0
+  Sound Server-1: ALSA v: k5.17.5-300.fc36.x86_64
+    running: yes
+  Sound Server-2: PipeWire v: 0.3.49 running: yes
+Network:
+  Device-1: Intel 82579LM Gigabit Network
+    vendor: Hewlett-Packard driver: e1000e v: kernel
+    port: f080 bus-ID: 00:19.0
+  IF: eno1 state: down mac: <filter>
+  Device-2: Huawei E3372 LTE/UMTS/GSM HiLink
+  Modem/Networkcard
+    type: USB driver: cdc_ether,usb-storage
+    bus-ID: 2-1.7:14
+  IF: enp0s29u1u7 state: up speed: 425 Mbps
+    duplex: half mac: <filter>
+  IF-ID-1: docker0 state: up speed: 10000 Mbps
+    duplex: unknown mac: <filter>
+  IF-ID-2: vethee848b8 state: up speed: 10000 Mbps
+    duplex: full mac: <filter>
+Drives:
+  Local Storage: total: 74.54 GiB
+    used: 28.17 GiB (37.8%)
+  ID-1: /dev/sda vendor: Hitachi
+    model: HDS721680PLA380 size: 74.54 GiB
+Partition:
+  ID-1: / size: 72.95 GiB used: 28.01 GiB (38.4%)
+    fs: btrfs dev: /dev/sda3
+  ID-2: /boot size: 973.4 MiB used: 152.6 MiB (15.7%)
+    fs: ext4 dev: /dev/sda2
+  ID-3: /boot/efi size: 598.8 MiB
+    used: 13.9 MiB (2.3%) fs: vfat dev: /dev/sda1
+  ID-4: /home size: 72.95 GiB used: 28.01 GiB (38.4%)
+    fs: btrfs dev: /dev/sda3
+Swap:
+  ID-1: swap-1 type: zram size: 3.72 GiB
+    used: 841 MiB (22.1%) dev: /dev/zram0
+Sensors:
+  System Temperatures: cpu: 45.0 C mobo: N/A
+  Fan Speeds (RPM): N/A
+Info:
+  Processes: 268 Uptime: 3h 18m Memory: 3.72 GiB
+  used: 2.91 GiB (78.2%) Init: systemd
+  target: graphical (5) Compilers: gcc: 12.0.1
+  Packages: 12 note: see --pkg Shell: Bash v: 5.1.16
+  inxi: 3.3.19

@@ -1,0 +1,1456 @@
+[
+  {
+    "title": "Node.js",
+    "instructor": "حسين الربيعي",
+    "description": "Great introduction to Node.js in arabic, you'll learn the basics of Node.js starting from how to setup node in your machine, fundumentals of node, modules, callbacks, testing, NPM, how to host and much more",
+    "category": "programming",
+    "tags": [
+      "node.js",
+      "nodejs",
+      "testing",
+      "server-side",
+      "backend",
+      "arabic",
+      "javascript"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner, intermidiate and advance",
+    "release_date": "2016",
+    "lessons_count": 23,
+    "lessons": [
+      {
+        "title": "1- What is Node.js مقدمة تعريفية عن التقنية وفوائدها_HD",
+        "_id": "403a0711-c298-4bd2-8899-193ee290acbc",
+        "size": 6,
+        "duration": null
+      },
+      {
+        "title": "10-  Node.js callback with File System الكفائة العالية في معالجة الطلبات على الخ_HD",
+        "_id": "c621ec05-1648-41dd-a988-6b528b8bd764",
+        "size": 13,
+        "duration": "00:07:03.60"
+      },
+      {
+        "title": "11- Node.js_create a HTTP server with html, JSON response إنشاء خادم_HD",
+        "_id": "6f3d8b19-8b80-4b39-863c-cd40c910f36e",
+        "size": 16,
+        "duration": "00:07:46.60"
+      },
+      {
+        "title": "12- Node.js _read query string parameters_HD",
+        "_id": "2d4eaab8-137e-48a6-a2e4-7fb8f406fc64",
+        "size": 8,
+        "duration": "00:03:16.07"
+      },
+      {
+        "title": "13- Node.js _ NPM and read POST data تمرير البيانات من الواجهات الى الخادم_HD",
+        "_id": "a24e52d9-88e9-4005-b4c7-772d93acf233",
+        "size": 28,
+        "duration": "00:10:50.48"
+      },
+      {
+        "title": "14- Node.js event loop and Event Emitter الأحداث_HD",
+        "_id": "fa6a9474-2b07-4fb9-bcca-45fcf5d53628",
+        "size": 8,
+        "duration": "00:04:32.21"
+      },
+      {
+        "title": "15-  Node.js Connect to sql server on remote host  قواعد بيانات_HD",
+        "_id": "5dc0cf19-f6cf-4a02-9793-8dffedcbd325",
+        "size": 9,
+        "duration": "00:04:25.61"
+      },
+      {
+        "title": "16-  Node.js insert and select data into sql server  قواعد بيانات_HD",
+        "_id": "c77193e6-2d13-4da5-a311-b628e90dcf70",
+        "size": 16,
+        "duration": "00:05:11.05"
+      },
+      {
+        "title": "17-  node.js unit testing using 'asserts' اختبار وحدة_HD",
+        "_id": "16c243e6-5dc6-487c-8b13-ef8abe442b71",
+        "size": 10,
+        "duration": "00:05:13.59"
+      },
+      {
+        "title": "18- node.js encription use 'Crypto'  التشفير_HD",
+        "_id": "c632a175-20e6-4c11-90e5-6105ab9983ce",
+        "size": 10,
+        "duration": "00:04:24.27"
+      },
+      {
+        "title": "19-  node.js use express  تصميم النوافذ_HD",
+        "_id": "6c3ec4a0-5004-431e-9772-3d528988afb1",
+        "size": 16,
+        "duration": "00:04:56.75"
+      },
+      {
+        "title": "2-  install Node.js on mac تثبيت_HD",
+        "_id": "465c2fc0-8eea-44a5-926f-c55c4b4aa8a0",
+        "size": 15,
+        "duration": "00:06:39.62"
+      },
+      {
+        "title": "20 - node.js use EJS  تصميم النوافذ_HD",
+        "_id": "82c502d7-3440-4a00-972c-905f9291ea1d",
+        "size": 15,
+        "duration": "00:06:14.96"
+      },
+      {
+        "title": "21- Node.js add new page and master page  إضافة صفحة جديدة وصفحة رئيسية_HD",
+        "_id": "5f4e083c-e61d-4edf-a000-8aaac906a36a",
+        "size": 20,
+        "duration": "00:07:30.19"
+      },
+      {
+        "title": "22-  Upload Node.js website to azure_رفع مشروع على الخادم_HD",
+        "_id": "c2cb1d9c-e55e-4b72-a1f4-9a182eeab41a",
+        "size": 18,
+        "duration": "00:05:20.99"
+      },
+      {
+        "title": "23-Node.js__ Creating live chat _ عمل تطبيق دردشة كامل_HD",
+        "_id": "ff97963b-608a-405c-b73d-f12a9a1369f8",
+        "size": 74,
+        "duration": "00:25:07.93"
+      },
+      {
+        "title": "3-install Node.js on Windows تثبيت_HD",
+        "_id": "0393e8c3-6875-4b86-8ce9-6c952a233f15",
+        "size": 7,
+        "duration": "00:03:46.02"
+      },
+      {
+        "title": "4- Node.js_ basic JavaScript أساسيات جافا سكريبت_HD",
+        "_id": "1e2fd313-30aa-4f03-b69b-d7ddd9447182",
+        "size": 9,
+        "duration": "00:05:13.54"
+      },
+      {
+        "title": "5- Node.js REPL Read Eval Print Loop_HD",
+        "_id": "d6c2d1cb-9164-4cb1-a72f-4d62f8722757",
+        "size": 6,
+        "duration": "00:02:27.61"
+      },
+      {
+        "title": "6- node.js loops_HD",
+        "_id": "f8f602bc-c3e5-4b15-890b-9729f2e82a8a",
+        "size": 4,
+        "duration": "00:02:06.62"
+      },
+      {
+        "title": "7- Node.js  this ,'==' and '==='_HD",
+        "_id": "da7b2f4c-51c4-42a6-a8d9-824a715eda89",
+        "size": 6,
+        "duration": "00:03:26.08"
+      },
+      {
+        "title": "8-  Node.js module and exports_HD",
+        "_id": "12bc03e3-3d07-4808-8ab9-39f973fa405f",
+        "size": 11,
+        "duration": "00:06:23.48"
+      },
+      {
+        "title": "9-  Node.js Module sharing مشاركة البيانات بين المودل_HD",
+        "_id": "0d8ce410-a0a2-43b5-8759-fcf7b088ea8b",
+        "size": 12,
+        "duration": "00:07:27.47"
+      }
+    ],
+    "duration": 8354,
+    "size": 324,
+    "introduction": {
+      "title": "1- What is Node.js مقدمة تعريفية عن التقنية وفوائدها_HD",
+      "path": "/home/Osama/Public/courses/Node.js/1- What is Node.js مقدمة تعريفية عن التقنية وفوائدها_HD.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/Node.js/cover.png",
+    "path": "/home/Osama/Public/courses/Node.js",
+    "date": "2022-10-23 at 03:35:02"
+  },
+  {
+    "title": "Learn and Understand AngularJS 4-5 in [Arabic ]",
+    "instructor": "Unknown",
+    "description": "Learn Angular framework by building projects to learn angular in depth",
+    "category": "web development",
+    "tags": [
+      "typescript",
+      "front-end",
+      "angular",
+      "framework",
+      "ui",
+      "arabic"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "intermidiate to advance",
+    "release_date": "2018",
+    "lessons_count": 36,
+    "lessons": [
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @1 intro Whats Is Angular",
+        "_id": "060a6866-fd9a-4cdb-979b-d5e31bd588ff",
+        "size": 28,
+        "duration": "00:14:02.21"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @2 Whats Is Angular 4 Architecture",
+        "_id": "0d48ca5f-c126-4d95-914a-c86e135db2d7",
+        "size": 11,
+        "duration": "00:06:37.97"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @3 Seed Project",
+        "_id": "7150235c-0e90-494e-8ff5-8e7c3fd87d0c",
+        "size": 12,
+        "duration": "00:05:27.01"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @4 Whats Is Angular 4 Environment",
+        "_id": "b80418b2-05a2-4ef2-a63a-07d224511717",
+        "size": 9,
+        "duration": "00:03:55.08"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @5 Cli",
+        "_id": "b6b581c2-2df9-4b9c-a496-6c36212e2021",
+        "size": 9,
+        "duration": "00:04:27.68"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @6 Upgrade Angular 2 to Angular 4",
+        "_id": "eecba27c-779d-43ed-9191-2e0d823a701b",
+        "size": 12,
+        "duration": "00:04:46.91"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @7 Creating Our First Component Angular 4",
+        "_id": "99d95b86-b060-44ce-bac6-3767831e82a3",
+        "size": 11,
+        "duration": "00:05:28.14"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @8 Using Componetin other  Component Angular ",
+        "_id": "f009d08b-89da-4e5b-873f-89479890d069",
+        "size": 11,
+        "duration": "00:05:22.92"
+      },
+      {
+        "title": "Learn Angular 4 in [Arabic ] _ @9 intro to Angular services",
+        "_id": "6d38126e-1ef4-40a0-a3b5-c5874d7f0cfd",
+        "size": 40,
+        "duration": "00:13:13.75"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @10 One Way Data Binding",
+        "_id": "d8cd33b9-f409-41e3-bcca-f7efe0d66690",
+        "size": 12,
+        "duration": "00:03:08.01"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @11 Two Way Data Binding",
+        "_id": "02ca493d-9289-435d-8e85-4231451853d4",
+        "size": 28,
+        "duration": "00:09:38.97"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @12 HTML 5 Events in Angular",
+        "_id": "792f655b-62c2-4dfd-9940-f1a4b21b28c7",
+        "size": 27,
+        "duration": "00:07:31.77"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @13_Login_Form",
+        "_id": "f6baa702-2b4c-4f1f-9077-c9e1547a53d6",
+        "size": 34,
+        "duration": "00:10:44.75"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @14 ng If -Else  in Angular",
+        "_id": "3458da3a-29da-4073-b0b7-34a15b0757ff",
+        "size": 26,
+        "duration": "00:09:13.59"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @15 ngFor  in Angular",
+        "_id": "213e9f43-90fb-4738-9409-8f4c7d74b006",
+        "size": 35,
+        "duration": "00:11:08.32"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @16 Angular 5 intro new features",
+        "_id": "59f10929-9ab6-4e2a-aa4c-4d25071602ee",
+        "size": 18,
+        "duration": "00:05:48.14"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @17 Upgrade from angular 4 to angular 5",
+        "_id": "baf8446f-da2c-46d9-bd20-60846b650f92",
+        "size": 22,
+        "duration": "00:06:01.77"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @18 Angular 4 Routes 1 of 3",
+        "_id": "6324ef97-e7bd-413b-8752-430ca55e5d9f",
+        "size": 56,
+        "duration": "00:17:03.77"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @19 Angular 4 Routes 2 of 3",
+        "_id": "9579d27f-3ee9-4ed6-ab5c-c3d19bb838a4",
+        "size": 15,
+        "duration": "00:06:48.28"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @20 Angular 4 Routes 3 of 3",
+        "_id": "b39d0ac0-19fc-4e37-bf46-f3069b2fdc48",
+        "size": 17,
+        "duration": "00:07:43.21"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @21 Send Params to Routes via HTML",
+        "_id": "45a45d15-3395-4e57-8b4c-f4396d4505c2",
+        "size": 37,
+        "duration": "00:11:15.35"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @22   Send Params to Routes  via Type scri",
+        "_id": "c8d83bf4-7fc7-4fd7-89b7-427cd758ea8b",
+        "size": 29,
+        "duration": "00:08:50.58"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @23  Access Routes Params",
+        "_id": "212cc10f-d82c-4674-b56b-381d8d079d83",
+        "size": 31,
+        "duration": "00:13:58.33"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @24  Share Service between  components",
+        "_id": "9836c9cb-32ad-4937-a3d3-729345d401dc",
+        "size": 57,
+        "duration": "00:15:47.14"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @25_Angular-Bootstrap_Login_Form",
+        "_id": "c3e33e1e-ff6d-4777-b369-df91843b052c",
+        "size": 118,
+        "duration": "00:29:11.18"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @26  Rxjs and Observable In Angular",
+        "_id": "27218c32-37e4-4e69-969b-57a128e6ed95",
+        "size": 35,
+        "duration": "00:17:59.87"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @27  Call API From Angular",
+        "_id": "b32c5dae-868f-490f-8085-2b6d62056911",
+        "size": 46,
+        "duration": "00:11:44.05"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @28   Control Access to Routes",
+        "_id": "5fa4b8b6-bc5b-4932-a798-9347fc6b54c1",
+        "size": 26,
+        "duration": "00:08:20.25"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @29   Send Data From Parent to child",
+        "_id": "b4a7c158-52d9-43a7-8e08-4b8c94b6fbdd",
+        "size": 40,
+        "duration": "00:11:07.97"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @30  Send Data from Child to Parent",
+        "_id": "28a68e4f-6f89-4dce-a00d-7909fd2834ac",
+        "size": 37,
+        "duration": "00:10:35.74"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @31   Access Child data via ViewChild",
+        "_id": "654b9bce-2f59-4dcf-b9cd-80639ca615fb",
+        "size": 44,
+        "duration": "00:11:32.77"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @32   Class Binding and ngClass",
+        "_id": "b6646695-0130-4c70-ab60-29f7a41195b5",
+        "size": 32,
+        "duration": "00:15:06.97"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @33   Style Binding and ngStyle",
+        "_id": "aa1c481f-ebf3-4a41-8a01-eeed03bac307",
+        "size": 37,
+        "duration": "00:10:10.10"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @34  How to use Github Repo for this Course",
+        "_id": "88c94a60-fc85-4372-b373-51b8f50dc2ea",
+        "size": 32,
+        "duration": "00:07:14.52"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @35  Final Project Overview",
+        "_id": "d24a2a57-55a7-4d19-8947-34ee176eece4",
+        "size": 33,
+        "duration": "00:08:27.08"
+      },
+      {
+        "title": "Learn Angular 4-5 in [Arabic ] _ @36  Final Project 1 of 20",
+        "_id": "43eac12f-ede7-4f63-be7c-f4a55c844bca",
+        "size": 70,
+        "duration": "00:17:17.07"
+      }
+    ],
+    "duration": 21994,
+    "size": 1122,
+    "introduction": {
+      "title": "Learn Angular 4 in [Arabic ] _ @1 intro Whats Is Angular",
+      "path": "/home/Osama/Public/courses/AngularJS-Ar/Learn Angular 4 in [Arabic ] _ @1 intro Whats Is Angular.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/AngularJS-Ar/cover.png",
+    "path": "/home/Osama/Public/courses/AngularJS-Ar",
+    "date": "2022-10-23 at 03:32:53"
+  },
+  {
+    "title": "Learn and Understand AngularJS",
+    "instructor": "Tony Alice",
+    "description": "The Course will take you through the major elements of angularjs in a special way by explain how things work under-the-hood",
+    "category": "web development",
+    "tags": [
+      "typescript",
+      "front-end",
+      "angular",
+      "framework",
+      "ui"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner , intermidiateand advance",
+    "release_date": "2020",
+    "lessons_count": 50,
+    "lessons": [
+      {
+        "title": "001-A1",
+        "_id": "5226c504-b2ff-4417-8e91-225b062398a3",
+        "size": 4,
+        "duration": "00:02:31.00"
+      },
+      {
+        "title": "002-A2",
+        "_id": "39cc99c9-f630-453a-b724-227181896bab",
+        "size": 2,
+        "duration": "00:01:20.25"
+      },
+      {
+        "title": "004-B1",
+        "_id": "1f01c8be-32bc-4c92-9ce1-5946bc8c49da",
+        "size": 6,
+        "duration": "00:06:03.65"
+      },
+      {
+        "title": "005-B2",
+        "_id": "635d96f0-5b4b-4e92-b838-24bee4456cad",
+        "size": 3,
+        "duration": "00:02:48.28"
+      },
+      {
+        "title": "006-B3",
+        "_id": "2c4bdf63-ff34-47a1-a1a8-d62a2ea96a59",
+        "size": 5,
+        "duration": "00:05:23.96"
+      },
+      {
+        "title": "007-B4",
+        "_id": "1b89a067-61bf-4375-802d-d9365502cd3a",
+        "size": 4,
+        "duration": "00:05:12.26"
+      },
+      {
+        "title": "009-B5Fixed",
+        "_id": "805c2ab7-fcf7-4f88-98e8-3d8f50648842",
+        "size": 13,
+        "duration": "00:09:20.53"
+      },
+      {
+        "title": "010-C1",
+        "_id": "5f3a7b9a-7e3a-45e7-8c91-d30f38894a51",
+        "size": 5,
+        "duration": "00:04:45.81"
+      },
+      {
+        "title": "011-C2",
+        "_id": "bfa47b7c-6be8-41d8-b232-0f4bda3b6d62",
+        "size": 5,
+        "duration": "00:04:56.84"
+      },
+      {
+        "title": "012-C3",
+        "_id": "29d8d6de-c7de-4cec-827f-70d9677f6d7c",
+        "size": 4,
+        "duration": "00:04:01.12"
+      },
+      {
+        "title": "013-C4",
+        "_id": "d19bf01b-10ef-4b79-b3cd-9f518ac11498",
+        "size": 3,
+        "duration": "00:03:03.97"
+      },
+      {
+        "title": "014-C5",
+        "_id": "f01cce81-9751-44de-8d57-84f0232ddc0d",
+        "size": 25,
+        "duration": "00:20:27.89"
+      },
+      {
+        "title": "015-C6",
+        "_id": "4c815bcc-c27f-47e3-bbee-34766d034036",
+        "size": 3,
+        "duration": "00:03:05.11"
+      },
+      {
+        "title": "016-C7",
+        "_id": "44342a65-d509-4df6-bb0d-934f5d7b02ee",
+        "size": 10,
+        "duration": "00:11:10.41"
+      },
+      {
+        "title": "017-D1",
+        "_id": "f14fe892-93f2-4376-9d04-47ba331abceb",
+        "size": 10,
+        "duration": "00:09:58.17"
+      },
+      {
+        "title": "018-D3",
+        "_id": "bce55811-fca5-4f75-8c53-d9361ebb3677",
+        "size": 12,
+        "duration": "00:13:13.45"
+      },
+      {
+        "title": "019-D2",
+        "_id": "f1917973-f8a3-4c4b-943b-308a8b9506b5",
+        "size": 3,
+        "duration": "00:03:21.90"
+      },
+      {
+        "title": "020-D4",
+        "_id": "1846cd8a-9c86-43e9-8f09-6255e6f0d1f2",
+        "size": 15,
+        "duration": "00:17:28.10"
+      },
+      {
+        "title": "021-D5",
+        "_id": "86ccc14b-bb36-4c95-b306-905e8743b570",
+        "size": 20,
+        "duration": "00:19:51.11"
+      },
+      {
+        "title": "022-D6",
+        "_id": "60ccbeb2-3bc0-4187-b22b-b060a6eec08f",
+        "size": 5,
+        "duration": "00:04:13.26"
+      },
+      {
+        "title": "023-D7",
+        "_id": "b6a9384d-9ce9-41e5-8319-adc618b54efd",
+        "size": 9,
+        "duration": "00:09:14.52"
+      },
+      {
+        "title": "024-D8",
+        "_id": "d6f56a1f-bc1d-4db8-8658-0cf866796055",
+        "size": 14,
+        "duration": "00:13:17.91"
+      },
+      {
+        "title": "025-E1",
+        "_id": "7140e810-e7bc-4e96-80e7-fc373048d690",
+        "size": 5,
+        "duration": "00:04:37.06"
+      },
+      {
+        "title": "026-E2",
+        "_id": "f843f65e-a6a4-4d71-b38e-a16ab1437870",
+        "size": 15,
+        "duration": "00:08:47.09"
+      },
+      {
+        "title": "027-E3",
+        "_id": "560ac815-dd85-414f-850d-e813ae6fe717",
+        "size": 14,
+        "duration": "00:14:37.64"
+      },
+      {
+        "title": "028-E4",
+        "_id": "eca10d2f-44e1-4354-8a72-86265fbf2c4b",
+        "size": 7,
+        "duration": "00:06:26.01"
+      },
+      {
+        "title": "029-F1",
+        "_id": "ce11f5e3-dc60-42e9-a540-f43b8f98f4cf",
+        "size": 7,
+        "duration": "00:06:09.85"
+      },
+      {
+        "title": "030-F2",
+        "_id": "0a08daaa-636c-4215-a08a-4ebf2041075f",
+        "size": 14,
+        "duration": "00:12:59.75"
+      },
+      {
+        "title": "031-G1",
+        "_id": "2579386c-60bf-40c7-82b6-075f30f12c8d",
+        "size": 3,
+        "duration": "00:02:24.80"
+      },
+      {
+        "title": "032-G4",
+        "_id": "2c684d9d-8fb4-4b1f-89ac-6978a4d80bcc",
+        "size": 6,
+        "duration": "00:06:32.74"
+      },
+      {
+        "title": "034-G2",
+        "_id": "bbd614c6-e45c-4d50-9b21-171a100d3070",
+        "size": 19,
+        "duration": "00:18:37.83"
+      },
+      {
+        "title": "035-G3",
+        "_id": "e52e397f-8789-4f84-8d76-eb3909e1e2df",
+        "size": 4,
+        "duration": "00:03:12.10"
+      },
+      {
+        "title": "036-G5",
+        "_id": "b422431e-7543-4263-b63b-23a54adaf3f6",
+        "size": 13,
+        "duration": "00:13:29.61"
+      },
+      {
+        "title": "037-G9",
+        "_id": "5af681ec-5bf0-440c-b9dc-df29054bd547",
+        "size": 6,
+        "duration": "00:05:59.17"
+      },
+      {
+        "title": "038-G10",
+        "_id": "436e8ed3-2687-48ea-bb23-eec98b0751e9",
+        "size": 11,
+        "duration": "00:10:27.40"
+      },
+      {
+        "title": "039-G11",
+        "_id": "0649ad86-1421-473d-9cdb-942b1dfcb212",
+        "size": 4,
+        "duration": "00:03:30.81"
+      },
+      {
+        "title": "040-G6",
+        "_id": "20a3a010-e15f-4dfa-b1ce-297c25ee6a02",
+        "size": 21,
+        "duration": "00:18:06.14"
+      },
+      {
+        "title": "041-G7",
+        "_id": "8a71c106-ffb6-47ae-9343-7bacc770552d",
+        "size": 4,
+        "duration": "00:03:04.65"
+      },
+      {
+        "title": "042-G8",
+        "_id": "12031d20-d28a-41ee-8c3c-1ee674b20ba4",
+        "size": 7,
+        "duration": "00:05:44.07"
+      },
+      {
+        "title": "043-H1",
+        "_id": "4778cd85-0487-4dc7-8719-1a35bfc64f24",
+        "size": 11,
+        "duration": "00:12:48.91"
+      },
+      {
+        "title": "044-H2",
+        "_id": "276dc7f7-10df-4534-9c3e-dc0969aa4f34",
+        "size": 5,
+        "duration": "00:05:17.67"
+      },
+      {
+        "title": "046-H3",
+        "_id": "c67f8d7c-8941-408d-b507-139f1f5a7cfd",
+        "size": 19,
+        "duration": "00:18:07.20"
+      },
+      {
+        "title": "047-H5",
+        "_id": "36e65218-aea8-4f5d-bb42-4bd699ffbb93",
+        "size": 8,
+        "duration": "00:07:40.57"
+      },
+      {
+        "title": "048-H4",
+        "_id": "12400ee7-3394-43b1-b2cd-b40bc7e201ff",
+        "size": 16,
+        "duration": "00:13:43.03"
+      },
+      {
+        "title": "049-H6",
+        "_id": "ea585e66-3377-4ce8-9f42-ad289e058ca8",
+        "size": 1,
+        "duration": "00:00:32.37"
+      },
+      {
+        "title": "050-J1",
+        "_id": "0406edc8-94a4-4d4f-92e5-ab5450ef9c80",
+        "size": 6,
+        "duration": "00:06:05.44"
+      },
+      {
+        "title": "051-J2",
+        "_id": "a0dae5b0-766f-4517-a0a6-0ec09e7da221",
+        "size": 8,
+        "duration": "00:07:16.16"
+      },
+      {
+        "title": "052-J3",
+        "_id": "7ffd3324-bec3-4a05-9359-b065928f3d3e",
+        "size": 13,
+        "duration": "00:10:49.37"
+      },
+      {
+        "title": "053-K1",
+        "_id": "04296958-4abc-4d78-9278-b30dc264cfd3",
+        "size": 10,
+        "duration": "00:08:12.84"
+      },
+      {
+        "title": "055-I1",
+        "_id": "4218ce3f-5aae-4914-a9ce-8f7ed68160fc",
+        "size": 2,
+        "duration": "00:01:47.88"
+      }
+    ],
+    "duration": 24694,
+    "size": 414,
+    "introduction": {
+      "title": "001-A1",
+      "path": "/home/Osama/Public/courses/AngularJS-En/001-A1.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/AngularJS-En/cover.png",
+    "path": "/home/Osama/Public/courses/AngularJS-En",
+    "date": "2022-10-23 at 03:33:27"
+  },
+  {
+    "title": "Learn HTML",
+    "instructor": "vlog hamed from droussnet.com",
+    "description": "Breif introduction to HTML programming language",
+    "category": "web development",
+    "tags": [
+      "html",
+      "arabic",
+      "web",
+      "programming"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner",
+    "release_date": "2021",
+    "lessons_count": 20,
+    "lessons": [
+      {
+        "title": "---دورة HTML - الدرس 1 ( مقدمة عن إنشاء و برمجة المواقع ) - YouTube",
+        "_id": "930c3d52-56f0-4713-8199-5020fce2f801",
+        "size": 25,
+        "duration": "00:06:03.37"
+      },
+      {
+        "title": "---دورة HTML - الدرس 10 (تشغيل اللغة العربية في الصفحة)",
+        "_id": "4fbba41d-723b-4850-abf6-ef5156beec26",
+        "size": 8,
+        "duration": "00:02:57.76"
+      },
+      {
+        "title": "---دورة HTML - الدرس 11 (إتجاه النصوص Direction) - YouTube",
+        "_id": "78a7115e-d34b-40b3-ac75-d803f9f38d8c",
+        "size": 6,
+        "duration": "00:02:29.18"
+      },
+      {
+        "title": "---دورة HTML - الدرس 12 (الجداول Table) - YouTube",
+        "_id": "36a26bbd-b176-4339-a2b8-ae3c326f3865",
+        "size": 16,
+        "duration": "00:09:06.70"
+      },
+      {
+        "title": "---دورة HTML - الدرس 13 (النماذج Form) - YouTube",
+        "_id": "4854e3ee-b3ec-4324-b716-19ad1dfc8e51",
+        "size": 26,
+        "duration": "00:14:12.63"
+      },
+      {
+        "title": "---دورة HTML - الدرس 14 (ماهـــي XHTML ؟ و كيف نعمل بها) - YouTube",
+        "_id": "73269cac-409a-484b-9208-826e566e39cb",
+        "size": 14,
+        "duration": "00:09:03.92"
+      },
+      {
+        "title": "---دورة HTML - الدرس 15 (HTML5 شرح خاصيتي Required و PlaceHolder) - YouTube",
+        "_id": "6968df8c-4c25-47a9-9262-b178f17c0ce8",
+        "size": 8,
+        "duration": "00:07:36.64"
+      },
+      {
+        "title": "---دورة HTML - الدرس 16 (HTML5  خصائص جديدة في النماذج) - YouTube",
+        "_id": "82f1951b-3007-4788-a0a4-b612546af4a2",
+        "size": 19,
+        "duration": "00:06:29.49"
+      },
+      {
+        "title": "---دورة HTML - الدرس 17 (HTML5 خاصية AUTOFOCUS) - YouTube",
+        "_id": "aa13c5dc-6b3f-48a9-8c0a-0a6e0fcfb679",
+        "size": 6,
+        "duration": "00:02:51.68"
+      },
+      {
+        "title": "---دورة HTML - الدرس 18 (إستخدام الفيديوهات في HTML5) - YouTube",
+        "_id": "9f3ab261-6c0e-4653-a0f1-8f4a056ba9ae",
+        "size": 15,
+        "duration": "00:07:41.65"
+      },
+      {
+        "title": "---دورة HTML - الدرس 19 (إستخدام الملفات الصوتية في HTML5) - YouTube",
+        "_id": "e35538f0-301e-450b-9ff3-1e6c41dd199d",
+        "size": 7,
+        "duration": "00:03:55.88"
+      },
+      {
+        "title": "---دورة HTML - الدرس 2 ( مايجب معرفته عن لغة HTML )",
+        "_id": "e8ca7ae4-e2aa-401d-a16f-0b1da8828530",
+        "size": 15,
+        "duration": "00:06:12.42"
+      },
+      {
+        "title": "---دورة HTML - الدرس 20 (نهـــآية الدورة) - YouTube",
+        "_id": "545c7fe0-be4f-4c57-83fa-24717323d513",
+        "size": 21,
+        "duration": "00:05:56.82"
+      },
+      {
+        "title": "---دورة HTML - الدرس 3 (تحميل و تثبيث برنامج NOTEPAD  ) - YouTube",
+        "_id": "db105485-4df7-4427-ad63-810f8e5a043d",
+        "size": 10,
+        "duration": "00:02:48.39"
+      },
+      {
+        "title": "---دورة HTML - الدرس 4 (شرح الوسوم و طريقة إستعمالها) - YouTube",
+        "_id": "bdb92a5a-e4d4-4de2-bd36-3714f1220549",
+        "size": 14,
+        "duration": "00:08:02.98"
+      },
+      {
+        "title": "---دورة HTML - الدرس 5 (شرح بعض وسوم التعامل مع النصوص) - YouTube",
+        "_id": "f93ee888-868f-4185-8a0c-52cf50626ae8",
+        "size": 17,
+        "duration": "00:10:31.26"
+      },
+      {
+        "title": "---دورة HTML - الدرس 6 (الألوان في HTML)",
+        "_id": "470d43ee-1660-41ef-8720-fc1454dd497c",
+        "size": 13,
+        "duration": "00:05:40.13"
+      },
+      {
+        "title": "---دورة HTML - الدرس 7 (وسوم تلوين الصفحة ووضع خلفية لها) - YouTube",
+        "_id": "3d734a97-3f8c-4f74-8fb6-482486fc6fdb",
+        "size": 14,
+        "duration": "00:05:55.06"
+      },
+      {
+        "title": "---دورة HTML - الدرس 8 (وسم الصور)",
+        "_id": "51d3384d-eed2-4145-925a-5f37047f86d1",
+        "size": 10,
+        "duration": "00:05:46.09"
+      },
+      {
+        "title": "---دورة HTML - الدرس 9 (الروابط)",
+        "_id": "2778e4c3-0fa1-4c52-adaf-29ac9a676233",
+        "size": 10,
+        "duration": "00:04:36.97"
+      }
+    ],
+    "duration": 7668,
+    "size": 265,
+    "introduction": {
+      "title": "---دورة HTML - الدرس 1 ( مقدمة عن إنشاء و برمجة المواقع ) - YouTube",
+      "path": "/home/Osama/Public/courses/Html/---دورة HTML - الدرس 1 ( مقدمة عن إنشاء و برمجة المواقع ) - YouTube.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/Html/cover.png",
+    "path": "/home/Osama/Public/courses/Html",
+    "date": "2022-10-23 at 03:33:40"
+  },
+  {
+    "title": "html course",
+    "instructor": "osama elzero",
+    "description": "Great introduction for beginners who want to Learn HTML in arabic",
+    "category": "web development",
+    "tags": [
+      "html",
+      "html5",
+      "arabic"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner",
+    "release_date": "2018",
+    "lessons_count": 20,
+    "lessons": [
+      {
+        "title": "[ Learn Html In Arabic ] #01 - Introduction",
+        "_id": "ff89c680-56b2-443e-8e85-17d46d20b452",
+        "size": 15,
+        "duration": "00:06:27.59"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #02 - What I Need",
+        "_id": "f085dfa0-a016-467c-91cf-9d31b135f3f6",
+        "size": 19,
+        "duration": "00:06:11.33"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #03 - Attributes ",
+        "_id": "fc7efd75-1cb4-49c1-bc07-b177ba482121",
+        "size": 15,
+        "duration": "00:04:14.68"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #04 - Heading ",
+        "_id": "f3f6ebda-5564-4ffb-b761-3e2be8352be3",
+        "size": 19,
+        "duration": "00:04:02.11"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #06 - Image ",
+        "_id": "a89d71ec-15f7-4359-94e8-825b8f87cbf4",
+        "size": 35,
+        "duration": "00:11:00.00"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #09 - Comment ",
+        "_id": "d17541eb-3727-4760-84a4-534beba04764",
+        "size": 32,
+        "duration": "00:08:38.92"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #11 - Lists ",
+        "_id": "41ae7efb-172b-497a-8eb5-25efe02cc58b",
+        "size": 44,
+        "duration": "00:11:21.88"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #12 - Text Format Part 1",
+        "_id": "82277161-593e-44c2-9e54-1cdb7eccfc98",
+        "size": 35,
+        "duration": "00:11:52.92"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #13 - Text Format Part 2",
+        "_id": "d7b1485a-1809-4eef-9894-6c40e3fd9652",
+        "size": 60,
+        "duration": "00:12:13.54"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #14 - Table Part 1 - Create A Simple Table ",
+        "_id": "1903a8f7-3b2c-4c7f-9e11-a21c0a3be859",
+        "size": 50,
+        "duration": "00:13:52.27"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #15 - Table Part 2 - Create The Table Structure ",
+        "_id": "1233b30f-2db5-418f-8560-74960b9889a7",
+        "size": 76,
+        "duration": "00:15:43.94"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #16 - Table Part 3 - Control The Table Columns ",
+        "_id": "f32bed58-0140-4267-a8fa-c525c4a9adc4",
+        "size": 75,
+        "duration": "00:17:26.27"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #17 - Elements Classes ",
+        "_id": "d8b74886-f7fc-44b1-862e-f71b8d09fad8",
+        "size": 32,
+        "duration": "00:08:24.01"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #18 - Form Elements Part 1 ",
+        "_id": "29ac0650-d7be-4e19-8884-270238bf39f2",
+        "size": 56,
+        "duration": "00:15:50.42"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #19 - Form Elements Part 2 ",
+        "_id": "05bb0b23-e718-4ecf-91b2-b40da2be45e3",
+        "size": 72,
+        "duration": "00:13:58.87"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #20 - Form Elements Part 3 ",
+        "_id": "0e588104-02f0-4501-a102-0779597cee1e",
+        "size": 132,
+        "duration": "00:23:00.17"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #21 - Create A Nice Form ",
+        "_id": "9141197b-08b6-4763-adcc-6bc1161ddca1",
+        "size": 130,
+        "duration": "00:23:09.02"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #22 - iFrame ",
+        "_id": "3b98766c-b61f-4a19-90ee-557032996d82",
+        "size": 40,
+        "duration": "00:09:21.50"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #23 - Html Entities & Reserved Characters",
+        "_id": "6cbcdc3d-5944-4807-8660-c7dbd1445aa5",
+        "size": 28,
+        "duration": "00:08:00.35"
+      },
+      {
+        "title": "[ Learn Html In Arabic ] #24 - Create A Simple Layout For Training ",
+        "_id": "15084c0f-24ad-4d94-8b3e-3e00be8c4d01",
+        "size": 58,
+        "duration": "00:12:59.61"
+      }
+    ],
+    "duration": 14260,
+    "size": 1193,
+    "introduction": {
+      "title": "[ Learn Html In Arabic ] #01 - Introduction",
+      "path": "/home/Osama/Public/courses/html/[ Learn Html In Arabic ] #01 - Introduction.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/html/cover.png",
+    "path": "/home/Osama/Public/courses/html",
+    "date": "2022-10-23 at 03:33:49",
+    "course.json": "please whenever you see this property, DELETE it, it happend becouse of some bug while creating json file"
+  },
+  {
+    "title": "MongoDB Tutorial - Introduction to MongoDB",
+    "instructor": "حسين الربيعي",
+    "description": "Great introduction to MongoDB in arabic, you'll learn the basics of MongoDB starting from inserting documents to collections, til searching the database",
+    "category": "databases",
+    "tags": [
+      "mongodb",
+      "database",
+      "server",
+      "nosql",
+      "arabic"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner, intermidiateand advance",
+    "release_date": "2021",
+    "lessons_count": 11,
+    "lessons": [
+      {
+        "title": "1- B  install mongoDB on windows تنصيب قاعدة البيانات",
+        "_id": "da8f3ca1-939c-4d04-96fe-d89f68a7f7b9",
+        "size": 12,
+        "duration": "00:03:19.02"
+      },
+      {
+        "title": "1-A  install mongoDB on mac تنصيب قاعدة البيانات",
+        "_id": "fedf12d0-5143-41cc-857c-11a715ffaf56",
+        "size": 18,
+        "duration": "00:05:30.54"
+      },
+      {
+        "title": "10- MongoDB index data  sort  ترتيب البيانات",
+        "_id": "4a6b9bd7-01fa-4654-93bd-af6606ccda41",
+        "size": 24,
+        "duration": "00:06:24.22"
+      },
+      {
+        "title": "2-MongoDB  create database and collection انشاء قاعدة بيانات وادخال بيانات في مجاميع",
+        "_id": "72e7e58a-3d6f-4367-96e3-8fafa10b5fce",
+        "size": 15,
+        "duration": "00:06:54.75"
+      },
+      {
+        "title": "3-MongoDB  show collections انشاء قاعدة بيانات وادخال بيانات في مجاميع",
+        "_id": "012cc9fb-faff-4a07-b0a2-ee9d2f36c02f",
+        "size": 5,
+        "duration": "00:03:45.00"
+      },
+      {
+        "title": "4- MongoDB Remove collection حذف مجموعة",
+        "_id": "a00c5e73-9f73-4779-8941-c6cea7138cae",
+        "size": 5,
+        "duration": "00:02:23.34"
+      },
+      {
+        "title": "5- MongoDB update collection التعديل على سجل",
+        "_id": "ed46b639-6f95-46f5-96db-9730c97a6009",
+        "size": 5,
+        "duration": "00:02:03.62"
+      },
+      {
+        "title": "6- MongoDB search $gt,$gte,$lt , $lte البحث في المجاميع",
+        "_id": "e45fd041-ef6e-4f85-aa5e-69f65b37fae6",
+        "size": 8,
+        "duration": "00:03:29.07"
+      },
+      {
+        "title": "7- MongoDB search $ne, $in, $nin البحث في المجاميع",
+        "_id": "ed59d54e-07f9-4023-b101-9a2223831ae4",
+        "size": 5,
+        "duration": "00:01:39.87"
+      },
+      {
+        "title": "8-MongoDB search $and, $or البحث في المجاميع",
+        "_id": "c61cfdb4-a4eb-40c3-abad-521af7a78746",
+        "size": 5,
+        "duration": "00:02:00.95"
+      },
+      {
+        "title": "9- MongoDB search $regex, $options البحث في المجاميع",
+        "_id": "4fe8906e-576f-4f72-a024-9e0936aae538",
+        "size": 13,
+        "duration": "00:03:23.48"
+      }
+    ],
+    "duration": 2449,
+    "size": 109,
+    "introduction": {
+      "title": "1-A  install mongoDB on mac تنصيب قاعدة البيانات",
+      "path": "/home/Osama/Public/courses/MongoDB_Arabic/1-A  install mongoDB on mac تنصيب قاعدة البيانات.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/MongoDB_Arabic/cover.png",
+    "path": "/home/Osama/Public/courses/MongoDB_Arabic",
+    "date": "2022-10-23 at 03:34:52"
+  },
+  {
+    "title": "[ Html5 In Arabic ]",
+    "instructor": "osama elzero",
+    "description": "Great introduction for beginners who want to Learn HTML in arabic with Osama el zero",
+    "category": "web development",
+    "tags": [
+      "html",
+      "html5",
+      "arabic"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner, intermidiateand advance",
+    "release_date": "2021",
+    "lessons_count": 36,
+    "lessons": [
+      {
+        "title": "[ Html5 In Arabic ] #01 - Introduction",
+        "_id": "dc935e51-1f80-4bdc-87d9-cf8cc9211c97",
+        "size": 12,
+        "duration": "00:07:16.70"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #02 - Deprecated Tags Part 1",
+        "_id": "538c9632-4c07-4cc8-96b4-4c20b345b3f2",
+        "size": 17,
+        "duration": "00:12:00.89"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #03 - Deprecated Tags Part 2",
+        "_id": "46819d1c-a5ff-417e-8460-bd3cbb92a837",
+        "size": 11,
+        "duration": "00:04:35.92"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #04 - Whats Semantics-",
+        "_id": "5250a91c-4691-4444-b038-8490e93203b0",
+        "size": 7,
+        "duration": "00:04:46.12"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #05 - Syntax",
+        "_id": "f25d4c96-20b6-4ec2-bf2b-e512abe8fda8",
+        "size": 26,
+        "duration": "00:13:04.58"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #06 - Migrate From Html4",
+        "_id": "15b9d1c2-5284-48f2-bbd8-74b35f2c4bc1",
+        "size": 20,
+        "duration": "00:08:15.12"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #07 - Support Html5",
+        "_id": "5a7af1b0-0b12-48a5-bd52-92f7804d264e",
+        "size": 32,
+        "duration": "00:13:56.61"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #08 - New Tags - Header, Nav, Article, Section, Footer",
+        "_id": "d72e41f1-6b6f-4cee-b794-38dd20677bb7",
+        "size": 47,
+        "duration": "00:17:36.51"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #09 - New Tags - Main, Aside",
+        "_id": "e253c11e-4f3c-440a-9f35-c643babc5596",
+        "size": 27,
+        "duration": "00:14:53.20"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #10 - New Tags - Progress, Meter",
+        "_id": "01233558-16e7-4688-839e-e2aee9b373e0",
+        "size": 29,
+        "duration": "00:15:48.51"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #11 - New Tags - Details, Mark, Wbr",
+        "_id": "2210d60e-cabc-47df-a705-69bd773bda19",
+        "size": 42,
+        "duration": "00:14:32.21"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #12 - New Tags - Figure, Figcaption",
+        "_id": "d0a7413b-1474-4a14-81c8-f58e1147aa0e",
+        "size": 40,
+        "duration": "00:13:03.81"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #13 - New Tags - Time, Dialog, Bdi",
+        "_id": "7e7ea611-2269-496b-a2af-2b90783e30c3",
+        "size": 34,
+        "duration": "00:11:39.22"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #14 - New Form Elements - Datalist",
+        "_id": "df48d71c-5c56-4d55-807a-63843d7e8a31",
+        "size": 12,
+        "duration": "00:03:51.41"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #15 - New Form Elements - Output",
+        "_id": "872ff1dd-6775-40de-be3a-3703ad25e539",
+        "size": 11,
+        "duration": "00:05:00.12"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #16 - Audio",
+        "_id": "43e48f26-2e6f-4135-8d10-c591b7c9a03a",
+        "size": 31,
+        "duration": "00:11:10.38"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #17 - Video",
+        "_id": "74eef02e-b7e8-4ec8-8e33-960561569b28",
+        "size": 33,
+        "duration": "00:11:28.91"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #18 - Form Input - Color, Range, Number",
+        "_id": "cb82411f-50eb-475c-b3c3-86788f37c117",
+        "size": 13,
+        "duration": "00:05:44.70"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #19 - Form Input - Email, Search, Url, Tel",
+        "_id": "3c457015-d90b-4e94-b39c-099d53d3f6b5",
+        "size": 19,
+        "duration": "00:05:20.11"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #20 - Form Input - Time, Date, Month, Week",
+        "_id": "1a44e3cf-ff71-4f17-a869-04983f0d945a",
+        "size": 24,
+        "duration": "00:08:00.12"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #21 - Form Attributes - AutoComplete, AutoFocus, NoValidate",
+        "_id": "b086e4e5-36ec-419f-b2a2-c2f178f8b44e",
+        "size": 20,
+        "duration": "00:06:15.61"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #22 - Form Attributes - Form [ Action, Method, EncType ]",
+        "_id": "af381119-1598-459d-a536-8ec8439895a8",
+        "size": 25,
+        "duration": "00:08:46.12"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #23 - Form Attributes - Form [ NoValidate, Target ]",
+        "_id": "ef2326fe-1a8f-4257-886d-b3aec3bcbc53",
+        "size": 18,
+        "duration": "00:06:06.27"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #24 - Form Attributes - Multiple, Placeholder, Required",
+        "_id": "79f7efa4-7ac6-4a00-9dd8-c710c264a9b0",
+        "size": 22,
+        "duration": "00:06:32.30"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #25 - Form Attributes - Min, Max, Step, Pattern",
+        "_id": "e541f888-96e3-486e-b8b1-e4e925cb150c",
+        "size": 23,
+        "duration": "00:07:07.32"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #26 - Form Attributes - Readonly vs Disabled",
+        "_id": "b9c432e8-c69a-4728-8f5b-c7a4ca8a3e44",
+        "size": 18,
+        "duration": "00:05:25.57"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #27 - Canvas - Intro",
+        "_id": "cdbe8bd5-3542-415f-947f-a44ab5966423",
+        "size": 37,
+        "duration": "00:12:20.21"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #28 - Canvas - Create Simple Canvas",
+        "_id": "2e365a63-2b96-4f2b-a810-c0e3c2c12bca",
+        "size": 26,
+        "duration": "00:15:11.22"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #29 - Canvas - Create Simple Line",
+        "_id": "22396034-f153-40bd-b15b-79724b2b8411",
+        "size": 37,
+        "duration": "00:20:20.72"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #30 - Canvas - Create Simple Text",
+        "_id": "750dbcad-7b17-4026-8ca6-7d5dbe5d8b87",
+        "size": 15,
+        "duration": "00:07:20.32"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #31 - Canvas - Create With Pure Javascript",
+        "_id": "3d94008e-1d48-4250-8ba4-3965ce8bd832",
+        "size": 26,
+        "duration": "00:12:23.39"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #32 - SVG - Introduction",
+        "_id": "7075b0c1-bf9c-4f31-b51b-f0fe29ff0e4b",
+        "size": 34,
+        "duration": "00:12:19.90"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #33 - SVG - Rect, CIrcle",
+        "_id": "29ef153f-0ecc-47f2-8e36-0165ed46ce9f",
+        "size": 27,
+        "duration": "00:11:15.42"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #34 - SVG - Use Css",
+        "_id": "5a049534-741a-4ea7-b9f9-3258f5a9593b",
+        "size": 24,
+        "duration": "00:08:15.91"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #35 - SVG - Ellipse, Line",
+        "_id": "9845b3ff-88bb-42a6-b268-c6f29912cbd7",
+        "size": 20,
+        "duration": "00:09:05.48"
+      },
+      {
+        "title": "[ Html5 In Arabic ] #36 - SVG - Compare",
+        "_id": "a1bcd2c8-a8f9-4166-a5db-2193516ec51c",
+        "size": 9,
+        "duration": "00:04:14.21"
+      }
+    ],
+    "duration": 21289,
+    "size": 849,
+    "introduction": {
+      "title": "[ Html5 In Arabic ] #01 - Introduction",
+      "path": "/home/Osama/Public/courses/html_5/[ Html5 In Arabic ] #01 - Introduction.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/html_5/cover.png",
+    "path": "/home/Osama/Public/courses/html_5",
+    "date": "2022-10-23 at 03:34:26",
+    "course.json": "please whenever you see this property, DELETE it, it happend becouse of some bug while creating json file"
+  },
+  {
+    "title": "MongoDB Tutorial",
+    "instructor": "By algorithm channel on YouTube",
+    "description": "short course about MongoDB in arabic, you'll learn the basics of MongoDB like how to setup MongoDB and basic CRUD (create, Read, update and DELETE)",
+    "category": "databases",
+    "tags": [
+      "mongodb",
+      "database",
+      "server",
+      "nosql",
+      "arabic"
+    ],
+    "available_at": "University of neelain, College of computer science",
+    "level": "beginner",
+    "release_date": "2020",
+    "lessons_count": 9,
+    "lessons": [
+      {
+        "title": "MongoDB Tutorial @01 - Introduction to MongoDB_Full-HD",
+        "_id": "5d7c04fe-eacb-42fd-bb33-803db874b17e",
+        "size": 21,
+        "duration": "00:09:16.63"
+      },
+      {
+        "title": "MongoDB Tutorial @02 - setup MongoDB_Full-HD",
+        "_id": "723f7584-6c82-4d94-8d4a-d0c223752a17",
+        "size": 34,
+        "duration": "00:07:10.55"
+      },
+      {
+        "title": "MongoDB Tutorial @03 - create & drop database_Full-HD",
+        "_id": "fd11d9d9-e67f-48d3-8a01-aa3dc0b5d835",
+        "size": 9,
+        "duration": "00:02:29.42"
+      },
+      {
+        "title": "MongoDB Tutorial @04 - create & drop collection_Full-HD",
+        "_id": "0e96b6a0-079d-4086-96b8-0c5830a0ef57",
+        "size": 14,
+        "duration": "00:05:32.46"
+      },
+      {
+        "title": "MongoDB Tutorial @05 - Data types_Full-HD",
+        "_id": "8ca2ac33-ed3c-4806-a58f-87d2d2b0d6eb",
+        "size": 8,
+        "duration": "00:02:26.73"
+      },
+      {
+        "title": "MongoDB Tutorial @06 - create document_Full-HD",
+        "_id": "3e0f0f02-ae2d-4233-a64a-44b0b3fcea68",
+        "size": 21,
+        "duration": "00:06:17.37"
+      },
+      {
+        "title": "MongoDB Tutorial @07 - update document_Full-HD",
+        "_id": "eac6f997-27c5-4242-b12e-d8b57244a2b7",
+        "size": 18,
+        "duration": "00:06:15.37"
+      },
+      {
+        "title": "MongoDB Tutorial @08 - delete document_Full-HD",
+        "_id": "585e847a-40aa-414c-aa76-37874b8c1c60",
+        "size": 10,
+        "duration": "00:02:58.47"
+      },
+      {
+        "title": "MongoDB Tutorial @09 - query operations_Full-HD",
+        "_id": "8d2e841d-fd3e-430b-bf13-3f68b9aaf598",
+        "size": 50,
+        "duration": "00:18:10.55"
+      }
+    ],
+    "duration": 3633,
+    "size": 182,
+    "introduction": {
+      "title": "MongoDB Tutorial @01 - Introduction to MongoDB_Full-HD",
+      "path": "/home/Osama/Public/courses/MongoDB_Tutorial/MongoDB Tutorial @01 - Introduction to MongoDB_Full-HD.mp4"
+    },
+    "cover": "/home/Osama/Public/courses/MongoDB_Tutorial/cover.png",
+    "path": "/home/Osama/Public/courses/MongoDB_Tutorial",
+    "date": "2022-10-23 at 03:34:56"
+  }
+]
